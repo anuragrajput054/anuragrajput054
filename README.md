@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Software Engineer at Rakuten Symphony with hands-on experience in building scalable backend and full-stack applications using Java, Spring Boot, and React. I enjoy solving DSA and system design problems and am highly motivated to work on impactful, real-world products in a fast-growing environment.
+A Software Engineer at Rakuten Symphony with hands-on experience in building scalable backend and full-stack applications using Java, Spring Boot, and React. I enjoy solving DSA and system design problems and am highly motivated to work on impactful, real-world products in a fast-growing environment.
 
 
 ## 🌐 Socials:
